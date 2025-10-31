@@ -1,15 +1,42 @@
-# Screenshots
+# 📸 KonnichiWow Quiz - Screenshots
 
-Add your application screenshots here:
+## 🖥️ Desktop Views
 
-- `desktop-home.png` - Desktop homepage
-- `desktop-quiz.png` , `desktop-ans.png`- Desktop quiz page
-- `desktop-summary.png` - Desktop summary page
-- `mobile-home.png` - Mobile homepage
-- `mobile-quiz.png` - Mobile quiz page
+### Home Page
+![Desktop Homepage](desktop-home.png)
+
+### Quiz Page
+![Desktop Quiz Page](desktop-quiz.png)
+
+### Answer Feedback
+![Desktop Answer Feedback](desktop-ans.png)
+
+### Summary Page
+![Desktop Summary Page](desktop-summary.png)
+
+---
+
+## 📱 Mobile Views
+
+### Home Page
+![Mobile Homepage](mobile-home.png)
+
+### Quiz Page
+![Mobile Quiz Page](mobile-quiz.png)
+
+### Summary Page
+![Mobile Summary Page](mobile-summary.png)
+
+---
+
+## 📋 Screenshot List
+
+- `desktop-home.png` - Desktop homepage with welcome message
+- `desktop-quiz.png` - Desktop quiz interface with questions
+- `desktop-ans.png` - Desktop answer feedback with explanations
+- `desktop-summary.png` - Desktop results summary dashboard
+- `mobile-home.png` - Mobile homepage layout
+- `mobile-quiz.png` - Mobile quiz interface
 - `mobile-summary.png` - Mobile summary page
 
-You can take screenshots using:
-- Browser DevTools (F12 > Device Toolbar > Screenshot)
-- Windows Snipping Tool (Win + Shift + S)
-- macOS Screenshot (Cmd + Shift + 4)
+
