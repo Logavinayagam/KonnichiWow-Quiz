@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Japan?",
+    "options": ["Seoul", "Tokyo", "Beijing", "Osaka"],
+    "answer": "Tokyo",
+    "explanation": "Tokyo is Japan's capital city and the world's most populous metropolitan area."
+  },
+  {
+    "id": 2,
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": ["<script>", "<style>", "<css>", "<link>"],
+    "answer": "<style>",
+    "explanation": "The <style> tag is used inside the <head> section to define internal CSS."
+  },
+  {
+    "id": 3,
+    "question": "What does CSS stand for?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets",
+    "explanation": "CSS stands for Cascading Style Sheets, used for styling HTML documents."
+  },
+  {
+    "id": 4,
+    "question": "Which JavaScript method is used to add an element at the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()",
+    "explanation": "The push() method adds one or more elements to the end of an array and returns the new length of the array."
+  },
+  {
+    "id": 5,
+    "question": "What is the correct way to declare a JavaScript variable?",
+    "options": ["var x = 10;", "variable x = 10;", "v x = 10;", "x := 10;"],
+    "answer": "var x = 10;",
+    "explanation": "In JavaScript, variables can be declared using var, let, or const keywords."
+  },
+  {
+    "id": 6,
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": ["//", "/*", "#", "<!--"],
+    "answer": "//",
+    "explanation": "Double slashes (//) are used for single-line comments in JavaScript."
+  },
+  {
+    "id": 7,
+    "question": "What is React?",
+    "options": ["A database", "A JavaScript library for building user interfaces", "A CSS framework", "A backend framework"],
+    "answer": "A JavaScript library for building user interfaces",
+    "explanation": "React is a popular JavaScript library developed by Facebook for building user interfaces, especially single-page applications."
+  },
+  {
+    "id": 8,
+    "question": "Which hook is used to manage state in React functional components?",
+    "options": ["useEffect", "useState", "useContext", "useReducer"],
+    "answer": "useState",
+    "explanation": "useState is the React Hook that allows you to add state to functional components."
+  },
+  {
+    "id": 9,
+    "question": "What does the 'px' unit stand for in CSS?",
+    "options": ["Percentage", "Pixels", "Points", "Position X"],
+    "answer": "Pixels",
+    "explanation": "px stands for pixels, which is an absolute unit of measurement in CSS."
+  },
+  {
+    "id": 10,
+    "question": "Which company developed the JavaScript language?",
+    "options": ["Microsoft", "Netscape", "Google", "Apple"],
+    "answer": "Netscape",
+    "explanation": "JavaScript was developed by Brendan Eich at Netscape Communications in 1995."
+  }
+]
