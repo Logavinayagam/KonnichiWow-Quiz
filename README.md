@@ -101,28 +101,7 @@ KonnichiWow-Quiz/
 
 ---
 
-## 🚀 Getting Started
 
-### Installation
-
-```bash
-# Clone repository
-git clone <repository-url>
-cd KonnichiWow-Quiz
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-Open `http://localhost:5173` in your browser.
-
----
 
 ## 🎮 User Flow
 
@@ -225,9 +204,9 @@ MIT License - Free to use for learning and portfolio.
 
 **Developed for KonnichiWow Frontend Development Task**
 
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: logavinayagam74@gmail.com  
+💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/loga2345)  
+
 
 ---
 
@@ -239,6 +218,6 @@ MIT License - Free to use for learning and portfolio.
 
 ---
 
-**⭐ Built with ❤️ for KonnichiWow ⭐**
+**⭐ Built with ❤️ for KonnichiWow with vibe coding⭐**
 
 *Deadline: November 2, 2025, 11:59 PM*
